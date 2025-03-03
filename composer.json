@@ -1,5 +1,5 @@
 {
-    "name": "matec-plugins/advanced-custom-fields-pro",
+    "name": "matec-plugin/advanced-custom-fields-pro",
     "description": "Advanced Custom Fields Pro Plugin",
     "type": "wordpress-plugin",
     "minimum-stability" : "stable",
