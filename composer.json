@@ -1,0 +1,11 @@
+{
+    "name": "matec-plugins/advanced-custom-fields-pro",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Matec",
+            "email": "info@matec.com.ar"
+        }
+    ],
+    "require": {}
+}
