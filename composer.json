@@ -1,11 +1,18 @@
 {
     "name": "matec-plugins/advanced-custom-fields-pro",
-    "type": "wordpress-muplugin",
+    "description": "Advanced Custom Fields Pro Plugin",
+    "type": "wordpress-plugin",
+    "version": "6.3.12",
     "authors": [
         {
             "name": "Matec",
             "email": "info@matec.com.ar"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "^2.0"
+    },
+    "extra": {
+        "installer-name": "advanced-custom-fields-pro"
+    }
 }
